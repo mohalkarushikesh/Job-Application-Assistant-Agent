@@ -175,7 +175,4 @@ job-agent/
 
 ---
 
-## 👨‍💻 Author
-
-**Rushikesh Mohalkar** — AI/ML Engineer  
-📍 Bangalore | 🔗 [GitHub](https://github.com/mohalkarushikesh) | [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar)
+🔗 [GitHub](https://github.com/mohalkarushikesh) | [LinkedIn](https://linkedin.com/in/rushikesh-mohalkar)
