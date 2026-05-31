@@ -1,7 +1,5 @@
 # Job-Application-Assistant-Agent
 
-Let's go! Here's everything you need:Now here's everything you need to start building:
-
 ---
 
 ## 📁 Folder Structure
@@ -69,4 +67,3 @@ pypdf
 
 ---
 
-Want me to write the **actual starter code** for `agent.py` or `rag.py` to get you going today? 🚀
