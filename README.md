@@ -1,6 +1,6 @@
 # 🤖 Job Application AI Agent
 
-An end-to-end Agentic AI system that analyses job descriptions, retrieves relevant experience from a resume using RAG, researches target companies, and generates tailored cover letters, resume bullets, and fit scores — all powered by LangChain, FAISS, and an LLM.
+An end-to-end Agentic AI system that analyses job descriptions, retrieves relevant experience from a resume using RAG (Retrieval Augmentation Generation), researches target companies, and generates tailored cover letters, resume bullets, and fit scores — all powered by LangChain, FAISS, and an LLM.
 
 ---
 
